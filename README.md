@@ -1,6 +1,6 @@
 # dbSchemasComparsion
 
-MySQL DB schemas comparison script based on 'Python' language
+MySQL DB schemas comparison script based on 'Python' language.
 User-friendly.
 Eliminate mistakes.
 Deploy changes from dev, to test, to production.
