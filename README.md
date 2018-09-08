@@ -3,10 +3,10 @@
 MySQL DB schemas comparison script based on 'Python' language
 
 This project is a Python-based database comparison script.
-• User-friendly
-• Eliminate mistakes
-• Deploy changes from dev, to test, to production
-• Find and fix errors caused by differences between databases
-• Generate SQL scripts that can be manually edited before running
-• Speed up the deployment of new database schema updates
+User-friendly.
+Eliminate mistakes.
+Deploy changes from dev, to test, to production.
+Find and fix errors caused by differences between databases.
+Generate SQL scripts that can be manually edited before running.
+Speed up the deployment of new database schema updates.
 
