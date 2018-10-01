@@ -88,10 +88,10 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
    Link : https://pureinfotech.com/install-xampp-windows-10/
 2) Install <b>'Python'</b> version <= 2.7 only <br>
    Link : https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a
-3) Open command prompt and Goto directory <b>'c:/python27/script'</b> and press 'ENTER' button
-4) Type this  <b>'pip install pymysql'</b> command and press 'ENTER' button
+3) Open command prompt and Goto directory <b>'c:/python27/script'</b> and press <b>'ENTER'</b> button
+4) Type this  <b>'pip install pymysql'</b> command and press <b>'ENTER'</b> button
 5) Start <b>'XAMPP'</b> server
-6) Copy mysql diff db script for python version <= 2.7 into your 'Downloads' directory
+6) Copy mysql diff db script for python version <= 2.7 into your <b>'Downloads'</b> directory <br>
    <b>File name :</b> diffDB2.py
-7) Open command prompt and goto <b>'Downloads'</b> directory and type <b>'diffDB2.py'</b> command and press 'ENTER' button
+7) Open command prompt and goto <b>'Downloads'</b> directory and type <b>'diffDB2.py'</b> command and press <b>'ENTER'</b> button
 8) Now follow step-wise <b>'diffDB2.py'</b> script procedure for MYSQL DB schemas comparsion.
