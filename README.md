@@ -78,10 +78,10 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
    <b>Run command via terminal :</b> sudo apt-get update  <br>
    <b>Run command via terminal :</b> sudo apt-get install python3-pymysql <br>
 5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively.
-6) Copy mysql diff db script for python version <= 2.7 into <b>'bin'</b> directory.
-   <b>File name :</b> diffDB2.py
-7) Open terminal and go to home directory level only. Type <b>'diffDB2.py'</b> and press <b>'ENTER'</b> button.
-8) Now follow step-wise <b>'diffDB2.py'</b> script procedure for MYSQL DB schemas comparsion.
+6) Copy mysql diff db script for python version >= 3.6 into <b>'bin'</b> directory.
+   <b>File name :</b> diffDB3.py
+7) Open terminal and go to home directory level only. Type <b>'diffDB3.py'</b> and press <b>'ENTER'</b> button.
+8) Now follow step-wise <b>'diffDB3.py'</b> script procedure for MYSQL DB schemas comparsion.
 
 <b>Installation process on windows OS version 10 : </b>
 1) Install <b>'XAMPP'</b> <br>
