@@ -111,6 +111,6 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
 
 <b>Any suggestions, improvements, facing issues etc. Contact on given below details.</b> <br>
 Author Name : Chirag D Jain <br>
-Mobile : 91+ 9975967186 <br>
+Mobile & What's App : 91+ 9975967186 <br>
 Email : chirag.jain@digitaledu.net <br>
 Country : India <br>
