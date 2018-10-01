@@ -108,3 +108,9 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
    <b>File name :</b> diffDB3.py
 7) Open command prompt and goto <b>'Downloads'</b> directory and type <b>'diffDB3.py'</b> command and press <b>'ENTER'</b> button
 8) Now follow step-wise <b>'diffDB3.py'</b> script procedure for MYSQL DB schemas comparsion.
+
+<b>Any suggestions, improvements, facing issues etc. Contact on given below details.</b>
+Author Name : Chirag D Jain
+Mobile : 91+ 9975967186
+Email : chirag.jain@digitaledu.net
+Country : India
