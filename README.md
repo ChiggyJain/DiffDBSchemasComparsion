@@ -63,3 +63,22 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
 7) Open terminal and go to home directory level only. Type <b>'diffDB2.py'</b> and press <b>'ENTER'</b> button.
 8) Now follow step-wise <b>'diffDB2.py'</b> script procedure for MYSQL DB schemas comparsion.
 
+<b>Installation process on ubuntu OS version 18.0 : </b>
+1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version >= 5.7) <br>
+   <b>Link :</b> https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+2) After installed mysql and phpmyadmin. <br>
+   Remove 'ONLY Full Group BY' option permanently. <Br>
+   Remove 'zero in default date' & 'zero in default datetime' option permanently.
+3) Install <b>'Python'</b> version >= 3.0 <br>
+   <b>Run command via terminal :</b> sudo apt-get update <br>
+   <b>Run command via terminal :</b> sudo apt-get install python3.6 <br>
+   <b>Run command via terminal :</b> sudo apt-get update <br>
+   <b>Run command via terminal :</b> sudo apt-get install python-pip <br>
+4) Install python <b>'PyMySQL'</b> for python version >= 3.0 <br>
+   <b>Run command via terminal :</b> sudo apt-get update  <br>
+   <b>Run command via terminal :</b> sudo apt-get install python3-pymysql <br>
+5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively.
+6) Copy mysql diff db script for python version <= 2.7 into <b>'bin'</b> directory.
+   <b>File name :</b> diffDB2.py
+7) Open terminal and go to home directory level only. Type <b>'diffDB2.py'</b> and press <b>'ENTER'</b> button.
+8) Now follow step-wise <b>'diffDB2.py'</b> script procedure for MYSQL DB schemas comparsion.
