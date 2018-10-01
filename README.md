@@ -29,12 +29,12 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
 <b>Installation process on ubuntu OS version <= 14.0 : </b>
 1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version <= 5.5) <br>
    <b>Link :</b> https://www.digitalocean.com/community/tutorials/how-to-install-lamp-on-ubuntu-14-04-quickstart
-2) Install <b>'Python'</b> version <= 2.7
+2) Install <b>'Python'</b> version <= 2.7 <br>
    <b>Run command via terminal :</b> sudo apt-get update <br>
    <b>Run command via terminal :</b> sudo apt-get install python2.7 <br>
    <b>Run command via terminal :</b> sudo apt-get update <br>
    <b>Run command via terminal :</b> sudo apt-get install python-pip <br>
-3) Install python <b>'PyMySQL'</b> for python version <= 2.7
+3) Install python <b>'PyMySQL'</b> for python version <= 2.7 <br>
    <b>Run command via terminal :</b> sudo apt-get update  <br>
    <b>Run command via terminal :</b> sudo apt-get install python-pymysql <br>
 4) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively.
