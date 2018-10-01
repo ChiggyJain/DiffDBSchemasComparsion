@@ -27,16 +27,16 @@ If you / your friends want to use / run this script then put your email id in co
 Don't forget to Like or Subscribe to my youtube channel to get more videos.
 
 <b>Installation process on ubuntu OS version <= 14.0 : </b>
-1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version <= 5.5)
-   Link : https://www.digitalocean.com/community/tutorials/how-to-install-lamp-on-ubuntu-14-04-quickstart
+1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version <= 5.5) <br>
+   <b>Link :</b> https://www.digitalocean.com/community/tutorials/how-to-install-lamp-on-ubuntu-14-04-quickstart
 2) Install <b>'Python'</b> version <= 2.7
-   Run command via terminal : sudo apt-get update <br>
-   Run command via terminal : sudo apt-get install python2.7 <br>
-   Run command via terminal : sudo apt-get update <br>
-   Run command via terminal : sudo apt-get install python-pip <br>
+   <b>Run command via terminal :</b> sudo apt-get update <br>
+   <b>Run command via terminal :</b> sudo apt-get install python2.7 <br>
+   <b>Run command via terminal :</b> sudo apt-get update <br>
+   <b>Run command via terminal :</b> sudo apt-get install python-pip <br>
 3) Install python <b>'PyMySQL'</b> for python version <= 2.7
-   Run command via terminal : sudo apt-get update  <br>
-   Run command via terminal : sudo apt-get install python-pymysql <br>
+   <b>Run command via terminal :</b> sudo apt-get update  <br>
+   <b>Run command via terminal :</b> sudo apt-get install python-pymysql <br>
 4) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively.
 5) Copy mysql diff db script for python version <= 2.7 into <b>'bin'</b> directory.
    <b>File name :</b> diffDB2.py
