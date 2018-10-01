@@ -73,7 +73,7 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
    <b>Run command via terminal :</b> sudo apt-get update <br>
    <b>Run command via terminal :</b> sudo apt-get install python3.6 <br>
    <b>Run command via terminal :</b> sudo apt-get update <br>
-   <b>Run command via terminal :</b> sudo apt-get install python-pip <br>
+   <b>Run command via terminal :</b> sudo apt-get install python3-pip <br>
 4) Install python <b>'PyMySQL'</b> for python version >= 3.0 <br>
    <b>Run command via terminal :</b> sudo apt-get update  <br>
    <b>Run command via terminal :</b> sudo apt-get install python3-pymysql <br>
