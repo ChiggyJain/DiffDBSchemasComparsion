@@ -31,13 +31,13 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
 1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version <= 5.5)
    Link : https://www.digitalocean.com/community/tutorials/how-to-install-lamp-on-ubuntu-14-04-quickstart
 2) Install <b>'Python'</b> version <= 2.7
-   Run command via terminal : sudo apt-get update 
-   Run command via terminal : sudo apt-get install python2.7
-   Run command via terminal : sudo apt-get update 
-   Run command via terminal : sudo apt-get install python-pip
+   Run command via terminal : sudo apt-get update <br>
+   Run command via terminal : sudo apt-get install python2.7 <br>
+   Run command via terminal : sudo apt-get update <br>
+   Run command via terminal : sudo apt-get install python-pip <br>
 3) Install python <b>'PyMySQL'</b> for python version <= 2.7
-   Run command via terminal : sudo apt-get update 
-   Run command via terminal : sudo apt-get install python-pymysql
+   Run command via terminal : sudo apt-get update  <br>
+   Run command via terminal : sudo apt-get install python-pymysql <br>
 4) Create 'bin' folder in your home directory level & set 774 permission to 'bin' created folder recursively.
 5) Copy mysql diff db script for python version <= 2.7 into 'bin' directory.
    fileName : diffDB2.py
