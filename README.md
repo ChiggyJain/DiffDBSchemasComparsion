@@ -83,6 +83,29 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
 7) Open terminal and go to home directory level only. Type <b>'diffDB3.py'</b> and press <b>'ENTER'</b> button.
 8) Now follow step-wise <b>'diffDB3.py'</b> script procedure for MYSQL DB schemas comparsion.
 
+<b>Installation process on linux/debian OS version 9 : </b>
+
+1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql) <br>
+   Link : https://www.linuxbabe.com/debian/install-lamp-stack-debian-9-stretch <br>
+2) Install phpmyadmin <br>
+   <b>Run command via terminal :</b> sudo apt-get install phpmyadmin <br>
+   <b>Link : </b> https://www.youtube.com/watch?v=p08xghuzBwc <br>
+3) Install <b>'Python'</b> version <= 2.7 <br>
+   <b>Run command via terminal : </b> sudo apt-get update <br>
+   <b>Run command via terminal : </b> sudo apt-get install python2.7 <br>
+   <b>Run command via terminal : </b> sudo apt-get update  <br>
+   <b>Run command via terminal : </b> sudo apt-get install python-pip  <br>
+4) Install python <b>'PyMySQL'</b> for python version <= 2.7 <br>
+   <b>Run command via terminal : </b> sudo apt-get update <br>
+   <b>Run command via terminal : </b> sudo apt-get install python-pymysql <br>
+5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively. <br>
+6) Copy mysql diff db script for python version <= 2.7 into 'bin' directory. <br>
+   <b>File name : </b> diffDB2.py <br>
+7) Open terminal and go to home directory level only. <br>
+8) Goto <b>'bin'</b> directory level & press 'ENTER' button <br>
+9) Type <b>'python diffDB2.py'</b> and press 'ENTER' button. <br>
+10) Now follow step-wise 'diffDB2.py' script procedure for MYSQL DB schemas comparsion.
+
 <b>Installation process on windows OS version 10 : </b>
 1) Install <b>'XAMPP'</b> <br>
    Link : https://pureinfotech.com/install-xampp-windows-10/
