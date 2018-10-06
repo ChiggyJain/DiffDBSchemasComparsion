@@ -1,4 +1,4 @@
-MySQL Database Schemas/Structures Comparison Script based on <b>'Python'</b> language.
+<b>MySQL Database Schemas/Structures Comparison Script based on 'Python' language.</b>
 
 <b>Script Compare : </b>
 1) Table Attributes
@@ -26,7 +26,7 @@ If you like videos then please share it to your friends too.
 If you / your friends want to use / run this script then put your email id in comment box. I'll share the installation and procedure steps.
 Don't forget to Like or Subscribe to my youtube channel to get more videos.
 
-<b>Installation process on ubuntu OS version <= 14 : </b>
+<b>Installation process on ubuntu OS version <= 14 [for python2.7] : </b>
 1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version <= 5.5) <br>
    <b>Link :</b> https://www.digitalocean.com/community/tutorials/how-to-install-lamp-on-ubuntu-14-04-quickstart
 2) Install <b>'Python'</b> version 2.7 <br>
@@ -38,122 +38,121 @@ Don't forget to Like or Subscribe to my youtube channel to get more videos.
    <b>Run command via terminal :</b> sudo apt-get update  <br>
    <b>Run command via terminal :</b> sudo apt-get install python-pymysql <br>
 4) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively.
-5) Copy mysql diff db script for python version 2.7 into <b>'bin'</b> directory.
-   <b>File name :</b> diffDB2.py <br>
+5) Copy script for python version 2.7 into created <b>'bin'</b> directory. <br>
+   <b>Download file name :</b> diffDB2.py <br>
 6) Open terminal and goto created <b>bin</b> directory level. Type <b>'diffDB2.py'</b> and press <b>'ENTER'</b> button. <br>
 7) Go ahead steps-wise with script.
 
-<b>Installation process on ubuntu OS version 18.0 : </b>
+<b>Installation process on ubuntu OS version 18.0 [for python2.7] : </b>
 1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version >= 5.7) <br>
    <b>Link :</b> https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
 2) After installed mysql and phpmyadmin. <br>
    Remove 'ONLY Full Group BY' option permanently. <Br>
    Remove 'zero in default date' & 'zero in default datetime' option permanently.
-3) Install <b>'Python'</b> version <= 2.7 <br>
+3) Install <b>'Python'</b> version 2.7 <br>
    <b>Run command via terminal :</b> sudo apt-get update <br>
    <b>Run command via terminal :</b> sudo apt-get install python2.7 <br>
    <b>Run command via terminal :</b> sudo apt-get update <br>
    <b>Run command via terminal :</b> sudo apt-get install python-pip <br>
-4) Install python <b>'PyMySQL'</b> for python version <= 2.7 <br>
+4) Install python <b>'PyMySQL'</b> for python version 2.7 <br>
    <b>Run command via terminal :</b> sudo apt-get update  <br>
    <b>Run command via terminal :</b> sudo apt-get install python-pymysql <br>
-5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively.
-6) Copy mysql diff db script for python version <= 2.7 into <b>'bin'</b> directory.
-   <b>File name :</b> diffDB2.py
-7) Open terminal and go to home directory level only. Type <b>'diffDB2.py'</b> and press <b>'ENTER'</b> button.
-8) Now follow step-wise <b>'diffDB2.py'</b> script procedure for MYSQL DB schemas comparsion.
+5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to created <b>'bin'</b> folder recursively.
+6) Copy script for python version 2.7 into created <b>'bin'</b> directory.
+   <b>Download file name :</b> diffDB2.py <br>
+7) Open terminal and goto created <b>bin</b> directory level. Type <b>'diffDB2.py'</b> and press <b>'ENTER'</b> button. <br>
+8) Go ahead steps-wise with script.
 
-<b>Installation process on ubuntu OS version 18.0 : </b>
+<b>Installation process on ubuntu OS version 18.0 [for python3.6]: </b>
 1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql version >= 5.7) <br>
    <b>Link :</b> https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
 2) After installed mysql and phpmyadmin. <br>
    Remove 'ONLY Full Group BY' option permanently. <Br>
    Remove 'zero in default date' & 'zero in default datetime' option permanently.
-3) Install <b>'Python'</b> version >= 3.0 <br>
+3) Install <b>'Python'</b> version 3.6 <br>
    <b>Run command via terminal :</b> sudo apt-get update <br>
    <b>Run command via terminal :</b> sudo apt-get install python3.6 <br>
    <b>Run command via terminal :</b> sudo apt-get update <br>
    <b>Run command via terminal :</b> sudo apt-get install python3-pip <br>
-4) Install python <b>'PyMySQL'</b> for python version >= 3.0 <br>
+4) Install python <b>'PyMySQL'</b> for python version 3.6 <br>
    <b>Run command via terminal :</b> sudo apt-get update  <br>
    <b>Run command via terminal :</b> sudo apt-get install python3-pymysql <br>
-5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively.
-6) Copy mysql diff db script for python version >= 3.6 into <b>'bin'</b> directory.
-   <b>File name :</b> diffDB3.py
-7) Open terminal and go to home directory level only. Type <b>'diffDB3.py'</b> and press <b>'ENTER'</b> button.
-8) Now follow step-wise <b>'diffDB3.py'</b> script procedure for MYSQL DB schemas comparsion.
+5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to created <b>'bin'</b> folder recursively.
+6) Copy script for python version 3.6 into created <b>'bin'</b> directory.
+   <b>Download file name :</b> diffDB3.py <br>
+7) Open terminal and goto created <b>bin</b> directory level. Type <b>'diffDB3.py'</b> and press <b>'ENTER'</b> button. <br>
+8) Go ahead steps-wise with script.
 
-<b>Installation process on linux/debian OS version 9 : </b>
+<b>Installation process on linux/debian OS version 9 [for python2.7] : </b>
 
 1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql) <br>
    Link : https://www.linuxbabe.com/debian/install-lamp-stack-debian-9-stretch <br>
 2) Install phpmyadmin <br>
    <b>Run command via terminal :</b> sudo apt-get install phpmyadmin <br>
    <b>Link : </b> https://www.youtube.com/watch?v=p08xghuzBwc <br>
-3) Install <b>'Python'</b> version <= 2.7 <br>
+3) Install <b>'Python'</b> version 2.7 <br>
    <b>Run command via terminal : </b> sudo apt-get update <br>
    <b>Run command via terminal : </b> sudo apt-get install python2.7 <br>
    <b>Run command via terminal : </b> sudo apt-get update  <br>
    <b>Run command via terminal : </b> sudo apt-get install python-pip  <br>
-4) Install python <b>'PyMySQL'</b> for python version <= 2.7 <br>
+4) Install python <b>'PyMySQL'</b> for python version 2.7 <br>
    <b>Run command via terminal : </b> sudo apt-get update <br>
    <b>Run command via terminal : </b> sudo apt-get install python-pymysql <br>
-5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively. <br>
-6) Copy mysql diff db script for python version <= 2.7 into 'bin' directory. <br>
-   <b>File name : </b> diffDB2.py <br>
-7) Open terminal and go to home directory level only. <br>
-8) Goto <b>'bin'</b> directory level & press 'ENTER' button <br>
-9) Type <b>'python diffDB2.py'</b> and press 'ENTER' button. <br>
-10) Now follow step-wise 'diffDB2.py' script procedure for MYSQL DB schemas comparsion.
+5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to created <b>'bin'</b> folder recursively. <br>
+6) Copy script for python version 2.7 into created <b>'bin'</b> directory. <br>
+   <b>Download file name :</b> diffDB2.py <br>
+7) Open terminal and goto created <b>'bin'</b> directory & press <b>'ENTER'</b> button. <br>
+8) Type <b>'python diffDB2.py'</b> and press <b>'ENTER'</b> button. <br>
+9) Go ahead steps-wise with script.
 
-<b>Installation process on linux/debian OS version 9 : </b>
+<b>Installation process on linux/debian OS version 9 [for python3.6] : </b>
 
 1) Install <b>'Lampstack'</b> i.e (php, apache2, mysql) <br>
    Link : https://www.linuxbabe.com/debian/install-lamp-stack-debian-9-stretch <br>
 2) Install phpmyadmin <br>
    <b>Run command via terminal :</b> sudo apt-get install phpmyadmin <br>
    <b>Link : </b> https://www.youtube.com/watch?v=p08xghuzBwc <br>
-3) Install <b>'Python'</b> version >= 3.0 <br>
+3) Install <b>'Python'</b> version 3.6 <br>
    <b>Run command via terminal : </b> sudo apt-get update <br>
    <b>Run command via terminal : </b> sudo apt-get install python3.6 <br>
    <b>Run command via terminal : </b> sudo apt-get update  <br>
    <b>Run command via terminal : </b> sudo apt-get install python3-pip  <br>
-4) Install python <b>'PyMySQL'</b> for python version >= 3.0 <br>
+4) Install python <b>'PyMySQL'</b> for python version 3.6 <br>
    <b>Run command via terminal : </b> sudo apt-get update <br>
    <b>Run command via terminal : </b> sudo apt-get install python3-pymysql <br>
-5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to <b>'bin'</b> created folder recursively. <br>
-6) Copy mysql diff db script for python version >= 3.0 into 'bin' directory. <br>
-   <b>File name : </b> diffDB3.py <br>
-7) Open terminal and go to home directory level only. <br>
-8) Goto <b>'bin'</b> directory level & press 'ENTER' button <br>
-9) Type <b>'python diffDB3.py'</b> and press 'ENTER' button. <br>
-10) Now follow step-wise <b>'diffDB3.py'</b> script procedure for MYSQL DB schemas comparsion.
+5) Create <b>'bin'</b> folder in your home directory level & set 774 permission to created <b>'bin'</b> folder recursively. <br>
+6) Copy script for python version 3.6 into created <b>'bin'</b> directory. <br>
+   <b>Download file name :</b> diffDB3.py <br>
+7) Open terminal and goto created <b>'bin'</b> directory & press <b>'ENTER'</b> button. <br>
+8) Type <b>'python3 diffDB3.py'</b> and press <b>'ENTER'</b> button. <br>
+9) Go ahead steps-wise with script.
 
-<b>Installation process on windows OS version 10 : </b>
+<b>Installation process on windows OS version 10 [for python2.7] : </b>
 1) Install <b>'XAMPP'</b> <br>
    Link : https://pureinfotech.com/install-xampp-windows-10/
-2) Install <b>'Python'</b> version <= 2.7 only <br>
+2) Install <b>'Python'</b> version 2.7 <br>
    Link : https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a
 3) Open command prompt and Goto directory <b>'c:/python27/script'</b> and press <b>'ENTER'</b> button
-4) Type this  <b>'pip install pymysql'</b> command and press <b>'ENTER'</b> button
+4) Type this <b>'pip install pymysql'</b> command and press <b>'ENTER'</b> button
 5) Start <b>'XAMPP'</b> server
-6) Copy mysql diff db script for python version <= 2.7 into your <b>'Downloads'</b> directory <br>
-   <b>File name :</b> diffDB2.py
+6) Copy mysql diff db script for python version 2.7 into your <b>'Downloads'</b> directory <br>
+   <b>Download file name :</b> diffDB2.py <br>
 7) Open command prompt and goto <b>'Downloads'</b> directory and type <b>'diffDB2.py'</b> command and press <b>'ENTER'</b> button
-8) Now follow step-wise <b>'diffDB2.py'</b> script procedure for MYSQL DB schemas comparsion.
+8) Go ahead steps-wise with script.
 
-<b>Installation process on windows OS version 10 : </b>
+<b>Installation process on windows OS version 10 [for python3.6] : </b>
 1) Install <b>'XAMPP'</b> <br>
    Link : https://pureinfotech.com/install-xampp-windows-10/
-2) Install <b>'Python'</b> version >= 3.6 only <br>
+2) Install <b>'Python'</b> version3.6 <br>
    Link : https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a
 3) Open command prompt and Goto directory <b>'c:/python36/script'</b> and press <b>'ENTER'</b> button
 4) Type this  <b>'pip install pymysql'</b> command and press <b>'ENTER'</b> button
 5) Start <b>'XAMPP'</b> server
-6) Copy mysql diff db script for python version >= 3.6 into your <b>'Downloads'</b> directory <br>
-   <b>File name :</b> diffDB3.py
+6) Copy mysql diff db script for python version 3.6 into your <b>'Downloads'</b> directory <br>
+   <b>Download file name :</b> diffDB2.py <br>
 7) Open command prompt and goto <b>'Downloads'</b> directory and type <b>'diffDB3.py'</b> command and press <b>'ENTER'</b> button
-8) Now follow step-wise <b>'diffDB3.py'</b> script procedure for MYSQL DB schemas comparsion.
+8) Go ahead steps-wise with script.
+
 
 <b>Any suggestions, improvements, facing issues etc. Contact on given below details.</b> <br>
 Author Name : Chirag D Jain <br>
