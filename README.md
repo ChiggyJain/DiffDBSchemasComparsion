@@ -3,7 +3,7 @@
 <b>Usecase :</b> <br>
 A) <b>'db_master1'</b> database is your perfect database which covered schemas & structures like tables, indexes, foreign keys, triggers, routines etc. as per product requirements. <br>
 B) <b>'db_testing1'</b> database is your raw database which covered schemas like tables, indexes, foreign keys, triggers, routines etc. as per product requirements, but raw <b>'db_testing1'</b> database is missing some schemas as compared to perfect <b>'db_master1'</b> database due to some reasons. <br>
-   <b>Missing schemas on raw 'db_testing1' database might be :</b> <br>
+C) Missing schemas on raw <b>'db_testing1'</b> database might be :<br>
    1) New columns on existing tables <br>
    2) Need to change existing columns definition on existing tables <br>
    3) Need to change existing columns datatype on existing tables <br>
