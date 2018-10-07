@@ -1,5 +1,23 @@
 <b>MySQL Database Schemas/Structures Comparison Script based on 'Python' language.</b>
 
+<b>Usecase :</b>
+Usecase :
+A) <b>'db_master1'</b> database is your perfect database which covered schemas & structures like tables, indexes, foreign keys, triggers, routines etc. as per product requirements. <br>
+B) <b>'db_testing1'</b> database is your raw database which covered schemas like tables, indexes, foreign keys, triggers, routines etc. as per product requirements, but raw <b>'db_testing1'</b> database is missing some schemas as compared to perfect <b>'db_master1'</b> database due to some reasons. <br>
+   <b>Missing schemas on raw 'db_testing1' database might be :</b> <br>
+   1) New columns on existing tables <br>
+   2) Need to change existing columns definition on existing tables <br>
+   3) Need to change existing columns datatype on existing tables <br>
+   4) New tables on existing database <br>
+   5) New indexes on existing tables <br>
+   6) Need to change existing indexes definition on existing tables <br>
+   7) New triggers on existing tables <br>
+   8) Need to change existing triggers definition on existing tables <br>
+   9) New functions/routines/events on database <br>
+   10) Need to change existing functions/routines/events definition on database <br>
+   11) New views on database <br>
+   12) Need to change existing views definition on database <br>
+   
 <b>Script Compare : </b>
 1) Table Attributes
 2) Table Structure [Column data-type / definition, indexes, foreign keys constraints]
