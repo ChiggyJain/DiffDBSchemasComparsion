@@ -16,7 +16,9 @@ B) <b>'db_testing1'</b> database is your raw database which covered schemas like
    10) Need to change existing functions/routines/events definition on database <br>
    11) New views on database <br>
    12) Need to change existing views definition on database <br>
-   
+
+<b>To overcome from above mentioned problem i have developed an script to solve problem automatically within shorter period of time.</b> <br>
+
 <b>Script Compare : </b>
 1) Table Attributes
 2) Table Structure [Column data-type / definition, indexes, foreign keys constraints]
